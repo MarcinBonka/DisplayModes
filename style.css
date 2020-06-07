@@ -1,0 +1,12 @@
+:root{
+    --text-color: rgb(228, 228, 180);
+    --bg-color: rgb(25, 39, 223);
+    --bkg-modedark: rgb(58, 35, 100);
+    --fg-modedark: rgb(181, 182, 202);
+}
+
+body{
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
